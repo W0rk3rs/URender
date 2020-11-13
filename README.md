@@ -2,4 +2,5 @@
 A 2D/3D renderer written in c++ with opengl
 
 Important:
-It is advised to use the clean_build bat file to launch the program as doing so in visual studio requires additional work
+-To use visual studio to compile and run the program in debug mode, change the working directory to $(OutDir)
+To change the working diresctory, right click on the URender project->properties->Debugging->Working Directory
